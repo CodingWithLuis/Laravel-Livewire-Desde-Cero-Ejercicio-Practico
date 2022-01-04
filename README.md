@@ -32,3 +32,6 @@
  
  **6.En la pantalla de edición deben estar cargados los datos como la imagen siguiente**
  <img src="images/empleados_editar.png" />
+ 
+ 
+ **Muchas gracias a todos por seguir el curso**
