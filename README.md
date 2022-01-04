@@ -19,3 +19,13 @@
 **3. Eliminar empleados**
 - Al dar click al botón eliminar se debe ver la siguiente pantalla (SweetAlert con eventos y parámetros) y solamente al confirmar se elimina el dato.
 <img src="images/empleados_eliminar.png" />
+
+**4. Deben crear una pantalla de registro con validaciones como la imagen**
+<img src="images/empleados_validaciones.png" />
+
+- Deben incorporar un select2 para cargar la relación con los status
+- La pantalla de registro debe incluir la visualización de la imagen como se puede apreciar
+ <img src="images/empleados_visualizacion.png" />
+ 
+ **5.Mostrar feedback al usuario cada vez que se crea o edita un nuevo dato como el siguiente**
+ <img src="images/empleados_mensajes.png" />
