@@ -29,3 +29,6 @@
  
  **5.Mostrar feedback al usuario cada vez que se crea o edita un nuevo dato como el siguiente**
  <img src="images/empleados_mensajes.png" />
+ 
+ **6.En la pantalla de edición deben estar cargados los datos como la imagen siguiente**
+ <img src="images/empleados_editar.png" />
